@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'hoang.nguyen.doan@ofatechjsc.com'
 
   spec.summary       = 'NDH'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-ndh"
+  spec.homepage      = "https://github.com/hoangdoan-fuji-ios/fastlane-plugin-ndh"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
